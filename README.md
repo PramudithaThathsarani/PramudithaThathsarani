@@ -28,8 +28,6 @@ I am an IT undergraduate passionate about cybersecurity and continuously develop
 - TCP/IP
 - OSI Model
 - DNS
-- DHCP
-- ARP
 - HTTP/HTTPS
 - Subnetting
 - Network Troubleshooting
